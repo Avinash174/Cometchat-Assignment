@@ -1,4 +1,4 @@
-# cometchat_assignment
+# Cometchat Assignment
 
 A new Flutter project.
 
